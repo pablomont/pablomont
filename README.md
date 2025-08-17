@@ -4,7 +4,7 @@
 [![email](https://img.shields.io/badge/gmail-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white)](mailto:paablomt@gmail.com)
 
 <samp>
-Hi :wave: I'm Pablo, a software developer and computer science student, currently working with backend but passionate about programming in general
+Hi :wave: I'm Pablo, a software engineer currently working with backend but passionate about programming in general
 </samp>
 
 <div style="display: inline_block"><br>
